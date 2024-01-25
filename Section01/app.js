@@ -1,3 +1,3 @@
-var sumFunction = require("./sum");
+var calculator = require("./calculator");
 
-console.log(sumFunction(1,1));
+console.log(calculator.sum(1,1));
